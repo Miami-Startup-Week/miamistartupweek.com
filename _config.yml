@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Miami Startup Week"
   avatar : "/assets/images/msw-avatar.jpeg"
-  bio    : "Celebrating startups in the world's best startup hub."
+  bio    : "Celebrating startups in Miami - the greatest city for startups in the world!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
