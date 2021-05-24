@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Miami Startup Week"
   avatar : "/assets/images/msw-avatar.jpeg"
-  bio    : "Celebrating startups in Miami - the greatest city for startups in the world!"
+  bio    : "Celebrating startups in Miami - the best place to start something up!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -107,9 +107,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
